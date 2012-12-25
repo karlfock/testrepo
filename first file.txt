@@ -1,3 +1,4 @@
-clean file for new rebase test
-new line for rebase test
+another rebase test, without remote branch, commit one
+second commit
+third commit
 
