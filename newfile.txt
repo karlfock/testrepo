@@ -2,4 +2,5 @@ new file for third rebase test
 second commit for third rebase test
 third commit for third rebase test
 enough!!!
+some stuff added on master 
 
