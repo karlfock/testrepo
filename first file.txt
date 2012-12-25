@@ -1,3 +1,3 @@
-main line
-more main lines
+clean file for new rebase test
+new line for rebase test
 
