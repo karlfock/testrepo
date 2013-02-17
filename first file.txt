@@ -2,3 +2,7 @@ another rebase test, without remote branch, commit one
 second commit
 third commit
 
+changes in two files:
+asdfasf
+asdfasdf
+asdfasdf

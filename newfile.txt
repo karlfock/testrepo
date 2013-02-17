@@ -4,3 +4,7 @@ third commit for third rebase test
 enough!!!
 some stuff added on master 
 
+changes in two files:
+asdfasdfasdf
+asdfafdsfds
+asdfds
